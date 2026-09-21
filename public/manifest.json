@@ -1,0 +1,27 @@
+{
+  "name": "POLARIS | Polar Expedition Operations Suite",
+  "short_name": "POLARIS",
+  "description": "Integrated Polar Expedition Logistics & Asset Management System - NCPOR / Ministry of Earth Sciences",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/polaris.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/polaris.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "productivity", "utilities"],
+  "dir": "ltr",
+  "lang": "en-US"
+}
