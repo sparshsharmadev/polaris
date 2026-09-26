@@ -7,7 +7,6 @@
 > **Theme:** Smart Automation | **Category:** Software  
 > **Team:** Dev React (Team ID: 137578) | **Team Leader:** Sparsh Sharma  
 
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-BPYpZRfw6I)
 [![React 18](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Offline First](https://img.shields.io/badge/Architecture-Local--First_PWA-00C7B7?style=for-the-badge)](https://localfirstweb.com/)
@@ -63,8 +62,9 @@ In extreme sub-zero conditions (-40°C) with frequent multi-week satellite commu
 
 ## 🛠️ Technology Stack
 
-- **Frontend:** React 18 (SPA), Vite 6, Modern CSS Design Tokens (Dark / Light Cryo Theme)
-- **Icons & UI:** Lucide React, Canvas Confetti
+- **Frontend:** React 18 (SPA), Vite 6
+- **Styling & Design System:** Tactical Polar UI / CSS Custom Properties (Deep Carbon `#050505`, Crisp 1px hairlines, High-Contrast Dark & Light modes, JetBrains Mono tabular telemetry)
+- **Icons & UI Feedback:** Lucide React, Canvas Confetti
 - **Local Persistence & Sync:** IndexedDB (Store-and-Forward Outbox), LocalStorage, CRDT state merge
 - **Algorithms:** Predictive thermal fuel burn-rate regression, geospatial coordinate transforms
 - **Deployment:** Progressive Web App (PWA) / Dockerized Edge Container
@@ -81,7 +81,7 @@ In extreme sub-zero conditions (-40°C) with frequent multi-week satellite commu
 
 ```bash
 # Clone the repository
-git clone https://github.com/sparshsharma-dev/polaris.git
+git clone https://github.com/sparshsharmadev/polaris.git
 cd polaris
 
 # Install dependencies
@@ -96,7 +96,7 @@ Open your browser and navigate to:
 http://localhost:5173/
 ```
 
-### Keyboard Shortcuts:
+### Keyboard Shortcuts
 - `1` - `5`: Quick-switch between operational tabs
 - `O`: Toggle simulated polar satellite drop (Offline / Online mode)
 - `?`: Open the SIH 2026 Evaluation Demo Guide
@@ -115,6 +115,6 @@ http://localhost:5173/
 
 ## 👨‍💻 Team Dev React
 
-- **Team Leader:** Sparsh Sharma ([@sparshsharma-dev](https://github.com/sparshsharma-dev))
+- **Team Leader:** Sparsh Sharma ([@sparshsharmadev](https://github.com/sparshsharmadev))
 - **Institute:** Rajkiya Engineering College, Mirzapur
 - **Event:** Smart India Hackathon (SIH) 2026
